@@ -18,3 +18,18 @@ What's included in the template?
 - Testing projects
   - Architecture testing
 
+I'm open to hearing your feedback about the template and what you'd like to see in future iterations.
+
+
+- Domain-Driven Design
+- Role-based authorization
+- Permission-based authorization
+- Distributed caching with Redis
+- OpenTelemetry
+- Outbox pattern
+- API Versioning
+- Unit testing
+- Functional testing
+- Integration testing
+
+Stay awesome!
